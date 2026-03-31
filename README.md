@@ -21,8 +21,8 @@ Unduh Aplikasi Termux Nya Dibawah Ini:
   
 [![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
-# Install
-Follow The Steps Below!
+# Cara Penginstallan Di Termux
+- Ketik Di Aplikasi Termux Seperti DiBawah Ini !! Tanda $ Jangan Ikutan Diketik Ya Guys
 
 ```python2
 $ pkg install python2 -y
@@ -40,6 +40,7 @@ $ ls
 
 - Step Selanjutnya ketikkan
 $ python2 style.py.
+
 - Berhasil Masuk Ke Menu Style,Pilih Style Dari Nomor 1 Sampai Nomor 8,Bebas Kalian Mau Pilih Yang Nomor Berapa
 - Setelah Memilih Pilihan Style Nya,Kemudian Tulis Nama Apa Saja Yg Diinginkan,Boleh Itu Nama Kamu Atau Nama Akun Github Kamu Atau Terserah Tulisan Apa Yang Kamu Mau
 - Dua kali Ya Ngisi Nulis Namanya,Nama Untuk Di Style Nya Dan Nama Buat di Terminal Emulatornya
