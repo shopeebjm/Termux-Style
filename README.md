@@ -43,6 +43,7 @@ $ python2 style.py.
 - Berhasil Masuk Ke Menu Style,Pilih Style Dari Nomor 1 Sampai Nomor 8,Bebas Kalian Mau Pilih Yang Nomor Berapa
 - Setelah Memilih Pilihan Style Nya,Kemudian Tulis Nama Apa Saja Yg Diinginkan,Boleh Itu Nama Kamu Atau Nama Akun Github Kamu Atau Terserah Tulisan Apa Yang Kamu Mau
 - Dua kali Ya Ngisi Nulis Namanya,Nama Untuk Di Style Nya Dan Nama Buat di Terminal Emulatornya
+```
 
 ‎#Like Share Comment And Subscribe
 ‎
