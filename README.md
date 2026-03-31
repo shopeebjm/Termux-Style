@@ -16,9 +16,7 @@
 ‎<h2 align="center">
 ‎
 ‎Unduh Aplikasi Termux Nya Dibawah Ini
-‎
 ‎👇👇
-‎
 ‎[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
 # Install
@@ -45,7 +43,7 @@ $ python2 style.py.
 - Dua kali Ya Ngisi Nulis Namanya,Nama Untuk Di Style Nya Dan Nama Buat di Terminal Emulatornya
 ```
 
-‎#Like Share Comment And Subscribe
+# Like Share Comment And Subscribe
 ‎
 ‎<h2 align="center">
 ‎
