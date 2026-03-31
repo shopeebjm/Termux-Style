@@ -10,8 +10,8 @@
 ‎  
 ‎[![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
-Script Ini
-- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
+# Untuk Menjalankan Script Ini
+- Pasang Aplikasi Termux Di Android Terlebih Dahulu!! Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 
 <h2 align="center">
 
