@@ -16,7 +16,6 @@
 ‎<h2 align="center">
 ‎
 ‎Unduh Aplikasi Termux Nya Dibawah Ini
-‎👇👇
 ‎[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
 # Install
@@ -65,7 +64,7 @@ $ python2 style.py.
 ‎<div height='45' align="center">
 ‎<h2>Contact me: <br>
 ‎<a href="https://github.com/shopeebjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
-‎<a href="https://shopee.co.id/infinixnote40bjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shopee.svg" height='50'> </a>
+‎<a href="https://shopee.co.id/infinixnote40bjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shopee.svg" height='50'>
 ‎
 ‎<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
 ‎</h2>
