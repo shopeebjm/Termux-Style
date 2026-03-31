@@ -10,13 +10,16 @@
 ‎  
 ‎[![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
-# Syarat & Bahan Untuk Menggunakan Script Ini
-‎- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
+Script Ini
+- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 
-‎<h2 align="center">
-‎
-‎Unduh Aplikasi Termux Nya Dibawah Ini
-‎[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
+<h2 align="center">
+
+Unduh Aplikasi Termux Nya Dibawah Ini:
+
+👇👇
+  
+[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
 # Install
 Follow The Steps Below!
